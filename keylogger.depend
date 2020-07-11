@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1555780324 source:c:\users\lenovo\downloads\keylog\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"SendMail.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"KeyBHook.h"
+
+1555771931 c:\users\lenovo\downloads\keylog\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+	<ostream>
+
+1555768196 c:\users\lenovo\downloads\keylog\keylogger\base64.h
+	<vector>
+	<string>
+
+1555768230 c:\users\lenovo\downloads\keylog\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1555772382 c:\users\lenovo\downloads\keylog\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1555780581 c:\users\lenovo\downloads\keylog\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1555781602 c:\users\lenovo\downloads\keylog\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1555768159 c:\users\lenovo\downloads\keylog\keylogger\keyconstants.h
+	<map>
+	<string>
+
